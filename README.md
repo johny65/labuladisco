@@ -11,9 +11,9 @@ _Te van a dar ganas de bailar._
 
 Como recuerdo hago ahora público el código fuente de la misma, para rememorar viejas épocas. Está escrito en C++ usando Borland C++ Builder 6. Para la reproducción de audio se utilizó la librería FMOD Ex SoundSystem 4.12.07. Para el ícono de la aplicación se usó Macromedia Flash.
 
-Creado junto a Facundo Curie.
+En la sección de [releases](https://github.com/johny65/labuladisco/releases) se encuentra para descargar la aplicación compilada (para Windows). El archivo de instalación fue creado con Nullsoft Scriptable Install System (NSIS).
 
-<!-- El archivo de instalación es creado con Nullsoft Scriptable Install System (NSIS). -->
+Proyecto creado junto a Facundo Curie.
 
 
 ## Algunas imágenes:
