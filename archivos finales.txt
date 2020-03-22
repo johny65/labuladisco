@@ -1,0 +1,14 @@
+Archivos finales que se incluirán en la instalación:
+
+labuladisco.exe			(ejecutable principal)
+labuladisco.exe.manifest	(para los controles comunes)
+fmodex.dll			(librería FMOD)
+borlndmm.dll			(runtime)
+cc3260mt.dll			(runtime)
+qtintf.dll			(runtime)
+stlpmt45.dll			(runtime)
+default.labula			(lista de reproducción predeterminada)
+pref.cfg			(configuraciones del programa)
+Manual de Referencia.pdf	(Manual de Referencia)
+Manual de Usuario.chm		(Manual de Usuario)
+lbd.ico				(Ícono para los archivos .lbd)
